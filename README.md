@@ -51,3 +51,4 @@ constructor(token) { **this.token = token;**  }
 
 ÉS kész. Ezzel elértük azt, hogy csak a session által generált token birtokában tudjuk módosítani az adatokat.
 "# konyboltJSLARAVEL" 
+"# konyboltJSLARAVEL" 
